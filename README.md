@@ -1,6 +1,5 @@
-# Cnn-mini-game-covers-Project-2
+# Cnn-mini-game-covers
 CNN project classifying video game cover images into genres
-# CNN Video Game Cover Classifier 
 
 This project uses a 6-layer CNN in PyTorch to classify video game cover images into five categories: `Indie`, `Puzzle`, `Platform`, `Fighting`, `Sport`.
 
